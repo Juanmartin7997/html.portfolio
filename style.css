@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+}
+head{
+   background-color: #7F2020;
+}
+#titulo{
+color: white;
+font-family: sans-serif;
+}
+body{
+    background-color: #869B7E;
+}
+#top{
+    font-family: sans-serif;
+    color: white;
+    background-color: #7F2020;
+}
+#cumpleaños{
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    font-size: 2rem;
+    background-color: #869B7E;
+    color: white;
+}
+#peliculas{
+    font-family: sans-serif;
+    font-size: 2rem;
+ background-color: #869B7E;
+}
+#meme{
+    font-family: sans-serif;
+    font-size: 2rem;
+ background-color: #869B7E;
+}
+a{
+    color: black;
+}
+#about{
+    font-family: sans-serif;
+    background-color: #C9CAAC;
+}
